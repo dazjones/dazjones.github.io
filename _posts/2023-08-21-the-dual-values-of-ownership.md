@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Dual Values of Ownership: Cost and Mastery"
-date:   2023-08-21 00:00:00 +0100
+date:   2023-08-21 00:00:00 +0000
 author: Darren Jones
 categories: "Leadership"
 tags: "Leadership"

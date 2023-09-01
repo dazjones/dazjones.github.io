@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Power of Decision-Making: Embracing Mistakes"
-date:   2023-07-14 00:00:00 +0100
+date:   2023-07-14 00:00:00 +0000
 author: Darren Jones
 categories: "Leadership"
 tags: "Transformation Leadership Decisions"

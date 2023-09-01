@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Future-Focused Technical Leadership"
-date:   2023-07-05 00:00:00 +0100
+date:   2023-07-05 00:00:00 +0000
 author: Darren Jones
 categories: "Leadership"
 tags: "Leadership Agile Ethics"

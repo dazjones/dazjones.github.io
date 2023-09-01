@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Navigating Ethical Considerations In The Age Of AI"
-date:   2023-06-28 00:00:00 +0100
+date:   2023-06-28 00:00:00 +0000
 author: Darren Jones
 categories: "Ethics AI"
 tags: "AI Ethics"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Design Thinking - Human-centric Problem Solving"
-date:   2023-07-28 00:00:00 +0100
+date:   2023-07-28 00:00:00 +0000
 author: Darren Jones
 categories: "Leadership"
 tags: "Transformation Design-Thinking"

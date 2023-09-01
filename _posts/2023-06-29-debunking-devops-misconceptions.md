@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Debunking DevOps Misconceptions"
-date:   2023-06-29 00:00:00 +0100
+date:   2023-06-29 00:00:00 +0000
 author: Darren Jones
 categories: "DevOps"
 tags: "DevOps"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Future of AI Probably Isn't What You Think It Is"
-date:   2023-08-09 00:00:00 +0100
+date:   2023-08-09 00:00:00 +0000
 author: Darren Jones
 categories: "AI Ethics"
 tags: "AI Ethics"

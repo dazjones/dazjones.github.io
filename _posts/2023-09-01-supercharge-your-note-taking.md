@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Supercharge Your Note-Taking with Org-roam"
-date:   2023-09-01 00:00:00 +0100
+date:   2023-09-01 00:00:00 +0000
 author: Darren Jones
 categories: ["emacs"]
 tags: ["emacs", "pkm", "org-roam", "spacemacs"]
