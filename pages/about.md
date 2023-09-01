@@ -34,3 +34,19 @@ Darren
 
 - Github: [github.com/dazjones](https://github.com/dazjones/)
 - LinkedIn: [linkedin.com/in/dazjones/](https://www.linkedin.com/in/dazjones/)
+
+<br />
+
+---
+
+# Credits
+
+Hosted on <a href="https://pages.github.com/">Github Pages</a>
+
+Powered by <a href="https://jekyllrb.com/">Jekyll</a>
+
+Themed based on <a href="https://github.com/ghosind/Jekyll-Paper-Github">Jekyll-Paper-Github</a>
+
+Source hosted on <a href="https://github.com/dazjones/dazjones.github.io">Github</a>
+
+<br />
