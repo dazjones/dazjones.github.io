@@ -1,25 +1,20 @@
-# Welcome to Jekyll Paper for Github
-#
-# This is the configuration file for your blog, please change these items after forked.
-
 title: djns.io
 email: darren@djns.io
 name: Darren Jones
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- 
   Interested in all things tech
-keywords: [Your keywords]
-baseurl: '' # the subpath of your site, e.g. /`blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
-domain: 'djns.io' # the domain name for your site, e.g. example.com
+keywords: [Darren Jones Technology Leadership Personal Blog]
+baseurl: ''
+url: 'https://djns.io' 
+domain: 'djns.io' 
 language: en
 
 analytics: GTM-TTFLKB86
 
-comments: false # enable comments
-disqus: # disqus account
-
-mathjax: false # Math support
-diagram: false # Diagrams support
+comments: false
+disqus:
+mathjax: false
+diagram: false
 
 paginate: 25
 paginate_path: '/page:num/'

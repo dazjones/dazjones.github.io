@@ -28,3 +28,9 @@ Feel free to reach out and say hello. I'm always up for a good chat.
 
 Cheers,
 Darren
+
+---
+# Get In Touch
+
+- Github: [github.com/dazjones](https://github.com/dazjones/)
+- LinkedIn: [linkedin.com/in/dazjones/](https://www.linkedin.com/in/dazjones/)
