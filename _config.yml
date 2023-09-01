@@ -9,7 +9,7 @@ url: 'https://djns.io'
 domain: 'djns.io' 
 language: en
 
-analytics: GTM-TTFLKB86
+analytics:
 
 comments: false
 disqus:
