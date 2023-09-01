@@ -20,10 +20,18 @@
 
 .post-info {
   line-height: 24px;
-  margin: 10px 0;
+  margin: 20px 0;
+  padding: 20px 0;
+  border-top: 2px dotted #ccc;
 }
 
 .post-category,
 .post-tag {
   margin: 0 5px;
+}
+
+.container-post a,
+.page-content a {
+  color: purple;
+  text-decoration: underline;
 }
