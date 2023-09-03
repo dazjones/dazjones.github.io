@@ -5,6 +5,7 @@ date:   2023-09-01 00:00:00 +0000
 author: Darren Jones
 categories: ["emacs"]
 tags: ["emacs", "pkm", "org-roam", "spacemacs"]
+social_image: "https://source.unsplash.com/5bYxXawHOQg"
 ---
 
 Whether you're a student, a professional, or simply someone who loves to learn and stay organised, having a robust note-taking system can make a world of difference. You can supercharge your note-taking capabilities using Emacs, Spacemacs, and Org-roam—a powerful set of tools that can help you take your note-taking to the next level.
