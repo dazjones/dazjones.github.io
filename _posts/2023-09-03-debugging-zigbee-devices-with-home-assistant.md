@@ -3,7 +3,7 @@ layout: post
 title:  "Debugging Zigbee Devices With Home Assistant"
 date:   2023-09-03 00:00:00 +0000
 author: Darren Jones
-categories: ["home assistant", "zigbee"]
+categories: ["Home Assistant", "Zigbee"]
 tags: ["home assistant", "zigbee", "home automation"]
 ---
 
