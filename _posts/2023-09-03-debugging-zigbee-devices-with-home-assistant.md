@@ -5,6 +5,7 @@ date:   2023-09-03 00:00:00 +0000
 author: Darren Jones
 categories: ["Home Assistant", "Zigbee"]
 tags: ["home assistant", "zigbee", "home automation"]
+social_image: "https://source.unsplash.com/JYB1_-UHQB0"
 ---
 
 I have recenently started to experience some failures with Zigbee devices (mainly motion, and door contact sensors) which has caused some frustration around automations not firing as expected. There have been a few times now where I have walked into a room and the lights have not come on.
