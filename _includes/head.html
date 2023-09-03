@@ -9,6 +9,11 @@
     site.keywords | join: ','
   }}{% endif %}" />
 {% endif %}
+{% if page.social_image %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:image" content="{{ page.social_image }}" />
+<meta property="og:description" content="{{ page.title }}" />
+{% endif %}
 <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" />
 <link rel="apple-touch-icon" href="{{ site.baseurl }}/favicon.ico" />
 <link

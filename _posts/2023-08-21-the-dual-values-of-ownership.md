@@ -5,6 +5,7 @@ date:   2023-08-21 00:00:00 +0000
 author: Darren Jones
 categories: "Leadership"
 tags: "Leadership"
+social_image: "https://source.unsplash.com/5Zb1Uz6Gi8c"
 ---
 
 We often find ourselves caught up in the allure of instant gratification. The desire for immediate rewards has gradually shifted our focus away from the deeper significance of ownership. It is important to recognise that everything we possess carries both a cost of ownership, and a cost of mastery.
