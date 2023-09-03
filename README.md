@@ -1,7 +1,7 @@
 
 # dazjones.github.io
 
-This is the Github Pages source for my website [djns.io](https://djns.io).
+This is the Jekyll source for my website [djns.io](https://djns.io) hosted on Github Pages.
 
 
 
