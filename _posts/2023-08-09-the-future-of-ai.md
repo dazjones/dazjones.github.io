@@ -5,6 +5,7 @@ date:   2023-08-09 00:00:00 +0000
 author: Darren Jones
 categories: "AI Ethics"
 tags: "AI Ethics"
+social_image: "https://source.unsplash.com/ZPOoDQc8yMw"
 ---
 
 Artificial Intelligence (AI) has ignited our collective imagination with its potential to reshape various industries. However, as we peer into AI's future, it's vital to recognise the challenges that may steer its course. Comprehensive regulations, tangled legal intricacies, and the hefty expenses associated with AI model development demand attention and thoughtful consideration.
