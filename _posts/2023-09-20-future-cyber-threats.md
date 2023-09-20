@@ -3,8 +3,9 @@ layout: post
 title:  "Future Cybersecurity Threats and How to Stay Secure"
 date:   2023-09-20 00:00:00 +0000
 author: Darren Jones
-categories: "Security"
-tags: ""
+categories: ["Security"]
+tags: ["cyber"]
+social_image: "https://source.unsplash.com/em5w9_xj3uU"
 ---
 As we embrace groundbreaking and main-stream emerging technologies like artificial intelligence, quantum computing, and 5G connectivity, we're also exposing ourselves to new and increasingly complex cybersecurity threats. I want to explore the cybersecurity challenges we can expect to face in the future and think about practical steps to protect ourselves from these evolving and very present risks.
 
