@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Congo! :tada:"
-description: "This is a demo of the Congo theme for Hugo."
+title: "Hey there, I’m Darren "
+description: "This website is my personal space."
 
 showDate: false
 showAuthor: false

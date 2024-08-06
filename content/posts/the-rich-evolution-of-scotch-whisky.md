@@ -2,6 +2,7 @@
 title: "The Rich History and Evolution of Scotch Whisky"
 date: 2024-06-07
 description: "Whisky has been intertwined with Scotland’s heritage for centuries, possibly brought by Christian missionary monks."
+tags: ["whisky", "history"]
 ---
 
 ## The Myth of Whisky’s Ancient Celtic Roots

@@ -2,6 +2,7 @@
 title: "The Dual Value of Ownership"
 date: 2023-08-21
 description: "Whisky has been intertwined with Scotland’s heritage for centuries, possibly brought by Christian missionary monks."
+tags: ["ownership", "mastery"]
 ---
 
 We often find ourselves caught up in the allure of instant gratification. The desire for immediate rewards has gradually shifted our focus away from the deeper significance of ownership. It is important to recognise that everything we possess carries both a cost of ownership, and a cost of mastery.
