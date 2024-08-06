@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "djns.io"
+copyright = "&copy; 2024 djns.io"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["profile"]
+  description = "My blog"
+
+[params.author]
+  name = "Darren Jones"
+  image = "img/author.jpg"
+  headline = "Often quoted: \"Don't Panic!\""
+  bio = "Hello World"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/dazjones/" },
+    { github = "https:/github.com/dazjones" },
+  ]
