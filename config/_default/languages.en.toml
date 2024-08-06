@@ -15,7 +15,7 @@ copyright = "&copy; 2024 djns.io"
 [params.author]
   name = "Darren Jones"
   image = "img/author.jpg"
-  headline = "Often quoted: \"Don't Panic!\""
+  headline = ""
   bio = "Hello World"
   links = [
     { linkedin = "https://www.linkedin.com/in/dazjones/" },

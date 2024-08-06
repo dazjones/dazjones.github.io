@@ -2,7 +2,6 @@
 title: "Rediscovering the Joy of Analogue"
 date: 2024-06-24
 description: "Today, I took a step back from my digital devices and reconnected with something simpler"
-draft: true
 ---
 
 Today, I took a step back from my digital devices and reconnected with something simpler and more tactile: my trusty notebook and pen. Despite the ease and speed of digital tools, I’ve come to realize there’s something special about writing things down the old-fashioned way.
