@@ -13,6 +13,11 @@
     showName = false
     target = "_blank"
 
+[[main]]
+  identifier = "appearance"
+  weight = 90
+  [main.params]
+    action = "appearance"
 
 [[main]]
   identifier = "search"

@@ -19,13 +19,13 @@ enableQuicklink = true
 fingerprintAlgorithm = "sha256"
 
 [header]
-  layout = "basic"
+  layout = "hybrid"
   showTitle = true
 
 [footer]
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
