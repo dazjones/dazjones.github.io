@@ -37,7 +37,7 @@ The site is automatically deployed to GitHub Pages on the main branch. Simply pu
 
 ## Contributing
 
-I welcome sensible contributions given that it is a personal blog! If you'd like to contribute, please fork the repository and use a feature branch.
+I welcome sensible contributions, but given that it is a personal blog I wouldn't expect any! If you'd like to contribute, please fork the repository and use a feature branch.
 
 ## Acknowledgements
 
