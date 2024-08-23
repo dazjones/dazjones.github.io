@@ -1,10 +1,10 @@
-# djns.io - Personal Blog
+# dazjones.github.io - Personal Blog
 
-Welcome to the repository for [djns.io](https://djns.io), my personal blog hosted on GitHub Pages and built using [Hugo](https://gohugo.io/).
+Welcome to the repository for [dazjones.github.io](https://dazjones.github.io), my personal blog hosted on GitHub Pages and built using [Hugo](https://gohugo.io/).
 
 ## About
 
-djns.io is a place where I share my thoughts, projects, and experiences. The blog is powered by Hugo, a fast and flexible static site generator.
+dazjones.github.io is a place where I share my thoughts, projects, and experiences. The blog is powered by Hugo, a fast and flexible static site generator.
 
 ## Getting Started
 
@@ -19,8 +19,8 @@ To set up a local version of the blog for development or contributions, follow t
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/djns.io.git
-   cd djns.io
+   git clone https://github.com/dazjones/dazjones.github.io.git
+   cd dazjones.github.io
    ```
 2. **Install dependencies:**
 

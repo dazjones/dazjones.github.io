@@ -3,8 +3,8 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "djns.io"
-copyright = "&copy; 2024 djns.io"
+title = "dazjones.github.io"
+copyright = "&copy; 2024 dazjones.github.io"
 
 [params]
   dateFormat = "2 January 2006"
