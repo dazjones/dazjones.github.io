@@ -21,6 +21,7 @@ To set up a local version of the blog for development or contributions, follow t
    ```sh
    git clone https://github.com/dazjones/dazjones.github.io.git
    cd dazjones.github.io
+   git submodule update -i
    ```
 2. **Install dependencies:**
 
