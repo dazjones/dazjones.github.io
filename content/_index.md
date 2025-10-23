@@ -8,15 +8,14 @@ showReadingTime: false
 showEdit: false
 
 ---
-
 {{< lead >}}
-Hey there, I’m Darren 👋.
+Welcome. 
 
-I live in the beautiful landscapes of Scotland, UK. This website is my personal space where I share my passions and interests.
+This is my personal space to write about my passions, all from my home base in beautiful Scotland, UK.
 
-I’m a whisky lover, always on the hunt for the next great dram. You will probably find me writing about anything that catches my interest.
+I'm a keen whisky lover, so you'll find plenty of thoughts on my search for the next great dram. Beyond that, I cover anything and everything that catches my interest.
 
-Just so you know, everything I share here is purely my own opinion and isn’t connected to my job or my employer. 
+A quick note: all opinions are purely my own and don't reflect those of my employer.
 
 Cheers!
 {{< /lead >}}
