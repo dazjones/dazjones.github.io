@@ -5,8 +5,6 @@ description: "Are we building a more powerful memory for AI, or just a bigger ro
 tags: ["AI", "LLM"]
 ---
 
-## Truths About Its 'Memory'
-
 When your AI chat seems to lose its mind, it's not a random glitch - it's a fundamental design constraint hitting its limit. Have you ever been deep in a long conversation with a chatbot like ChatGPT, only to find it gets "kind of dumb"? It starts to forget what you were talking about, makes things up, and the conversation grinds to a halt. What’s really happening is that it's running out of memory.
 
 This limitation has a technical name: the context window. Think of it as the AI's "short-term memory" - the amount of information it can hold and consider at any one time. When your conversation exceeds this limit, the AI starts to forget the earliest parts of your discussion. Understanding truths about how this memory works is no longer just for engineers; it's essential for anyone trying to get the most out of AI, as they reveal the hidden physics governing these powerful tools.
