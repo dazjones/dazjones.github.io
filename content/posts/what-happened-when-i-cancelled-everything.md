@@ -15,7 +15,7 @@ I didn't do it as a short-term detox. I did it as a permanent infrastructure mig
 
 Now, sitting here today, my life runs on "Localhost." I own my data. I own my media. I own my tools. And most importantly, I own my attention.
 
-However, there was one critical design constraint in this migration which I could not violate. I am not a monk living alone in a cell. I am a husband and a father. My family did not sign up for a radical lifestyle experiment. They just want to watch a movie and turn the lights on without reading a manual.
+However, there was one critical design constraint in this migration which I could not violate. I am not a monk living alone in a cell. I am a husband with a family. My family did not sign up for a radical lifestyle experiment. They just want to watch a movie and turn the lights on without reading a manual.
 
 If my quest for digital sovereignty made their lives harder, then the project would be a failure. Good engineering does not expose the end-user to the complexity of the backend.
 
