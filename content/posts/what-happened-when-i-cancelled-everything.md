@@ -1,5 +1,5 @@
 ---
-title: "Localhost: What Happened When I Cancelled Everything
+title: "Localhost: What Happened When I Cancelled Everything"
 date: 2025-12-01
 description: "Three years ago, I sat down with my bank statement and a red pen. I didn't just want to save money. I wanted to see who actually owned my life."
 tags: ["simplicity","lifestyle"]
